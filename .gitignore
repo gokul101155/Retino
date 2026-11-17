@@ -1,0 +1,15 @@
+# Datasets
+colored_images/
+*.csv
+datasets/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# App Data
+app/uploads/
+app/instance/retina_ai.db
+app/history.json

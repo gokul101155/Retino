@@ -1,0 +1,7 @@
+{
+  "name": "diabetic-retinopathy-app",
+  "private": true,
+  "scripts": {
+    "dev": "cd app && py app.py"
+  }
+}
